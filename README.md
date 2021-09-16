@@ -52,7 +52,8 @@ This was the first time ive ever used compasative touch, and it was difficult to
 ```
 
 ### Evidence
-https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1fg8ww52t17oj#attid%253Datt_17beee237c68a98f_0.1_ii_ktmztjpq0
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71341888/133626092-f7522970-bf4d-418d-9e07-07f4378ee65e.gif)
+
 ## Wiring
 
 ### Reflection
