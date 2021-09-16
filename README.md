@@ -37,19 +37,27 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 ## CircuitPython_Servo
 
 ### Description & Code
-
+This was the first time ive ever used compasative touch, and it was difficult to wrap my head around.
 ```python
-Code goes here
-
+ if touchA3.value:
+        print("A3 Touch")
+        for angle in range(0, 180, 5):
+            my_servo.angle = angle
+        time.sleep(0.3)
+    if touchA4.value:
+        print("A4 Touch")
+        for angle in range(180, 0, -5):
+            my_servo.angle = angle
+        time.sleep(0.3)
 ```
 
 ### Evidence
-
-### Wiring
+https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1fg8ww52t17oj#attid%253Datt_17beee237c68a98f_0.1_ii_ktmztjpq0
+## Wiring
 
 ### Reflection
 
-
+while the wiring was easy, learning python, especially compasitive touch,was kind of difficult. 
 
 
 ## CircuitPython_LCD
