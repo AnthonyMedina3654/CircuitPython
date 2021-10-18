@@ -61,24 +61,6 @@ This was the first time ive ever used compasative touch, and it was difficult to
 while the wiring was easy, learning python, especially compasitive touch,was kind of difficult. 
 
 
-## CircuitPython_LCD
-
-### Description & Code
-
-```python
-Code goes here
-
-```
-
-### Evidence
-
-### Wiring
-
-### Reflection
-
-
-
-
 
 ## CircuitPython_Distance_Sensor
 ### Description & Code
@@ -125,4 +107,4 @@ while True:
 ### Wiring
 
 ### Reflection
-the distance sensor was hard for me because i could not stay on task to save my life, but we're here now and finished. 
+the distance sensor was hard for me because i could not stay on task to save my life, but we're here now and finished. the old code i had available to me helped a lot.
