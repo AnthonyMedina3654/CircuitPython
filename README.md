@@ -11,26 +11,34 @@ This repository will actually serve as a aid to help you get started with your o
 ## Hello_CircuitPython
 
 ### Description & Code
-Description goes here
+Goal is to make the neopixel change colors, at the end changing color after a specific amount of time. 
 
-Here's how you make code look like code:
 
 ```python
 Code goes here
+import board
+import neopixel
+import time
+
+dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
+print("Make it red!")
+
+while True:
+    dot.fill((0, 0, 255))
+    time.sleep(.30)
+    dot.fill((153, 0, 255))
+    time.sleep(.30)
+    dot.fill((255, 0, 0))
+    time.sleep(.30)
 
 ```
 
 
 ### Evidence
-Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
-
-### Wiring
-Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
-Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
+<img src="https://user-images.githubusercontent.com/71345181/133625107-908011a3-f2ad-4a12-a524-92a9d155694c.jpg" alt="ledlightpic"/>
 
 ### Reflection
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person.
-
+the color change wasnt an issue for me, but I could not quite get the timed change to work for a couple attempts. 
 
 
 
@@ -54,16 +62,16 @@ This was the first time ive ever used compasative touch, and it was difficult to
 ### Evidence
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71341888/133626092-f7522970-bf4d-418d-9e07-07f4378ee65e.gif)
 
-## Wiring
-
 ### Reflection
 
-while the wiring was easy, learning python, especially compasitive touch,was kind of difficult. 
+while the wiring was easy, learning python, especially compasitive touch, was kind of difficult. i still do not understand how the code is able to understand when the wire is touching something. 
 
 
 
 ## CircuitPython_Distance_Sensor
 ### Description & Code
+
+have neopixel change color based on distance detected by sensor, neopixel fades on a 3 color pattern based on distance of object from sensor
 
 ```python
 Code goes here
@@ -103,8 +111,8 @@ while True:
 ```
 
 ### Evidence
+<img src="https://user-images.githubusercontent.com/71345181/134514464-caa97a3e-3cad-4ae1-9206-1270b65ca029.gif" alt="ezgif com-gif-maker (1)"/>
 
-### Wiring
 
 ### Reflection
 the distance sensor was hard for me because i could not stay on task to save my life, but we're here now and finished. the old code i had available to me helped a lot.
