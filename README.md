@@ -113,6 +113,8 @@ while True:
 ### Evidence
 <img src="https://user-images.githubusercontent.com/71345181/134514464-caa97a3e-3cad-4ae1-9206-1270b65ca029.gif" alt="ezgif com-gif-maker (1)"/>
 
+Image credit goes to[Graham Stevenson](https://github.com/Graham913/CI)
+
 
 ### Reflection
 the distance sensor was hard for me because i could not stay on task to save my life, but we're here now and finished. the old code i had available to me helped a lot.
