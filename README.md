@@ -61,6 +61,7 @@ This was the first time ive ever used compasative touch, and it was difficult to
 
 ### Evidence
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71341888/133626092-f7522970-bf4d-418d-9e07-07f4378ee65e.gif)
+Image credit goes to [Graham Stevenson](https://github.com/Graham913/CI)
 
 ### Reflection
 
@@ -113,7 +114,7 @@ while True:
 ### Evidence
 <img src="https://user-images.githubusercontent.com/71345181/134514464-caa97a3e-3cad-4ae1-9206-1270b65ca029.gif" alt="ezgif com-gif-maker (1)"/>
 
-Image credit goes to[Graham Stevenson](https://github.com/Graham913/CI)
+Image credit goes to [Graham Stevenson](https://github.com/Graham913/CI)
 
 
 ### Reflection
